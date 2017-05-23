@@ -1,0 +1,4458 @@
+fileFormatVersion: 2
+guid: 3aa7785a892dfb54a880632db136bcec
+timeCreated: 1492572312
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_0
+    21300002: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_1
+    21300004: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_2
+    21300006: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_3
+    21300008: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_4
+    21300010: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_5
+    21300012: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_6
+    21300014: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_7
+    21300016: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_8
+    21300018: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_9
+    21300020: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_10
+    21300022: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_11
+    21300024: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_12
+    21300026: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_13
+    21300028: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_14
+    21300030: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_15
+    21300032: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_16
+    21300034: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_17
+    21300036: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_18
+    21300038: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_19
+    21300040: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_20
+    21300042: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_21
+    21300044: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_22
+    21300046: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_23
+    21300048: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_24
+    21300050: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_25
+    21300052: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_26
+    21300054: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_27
+    21300056: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_28
+    21300058: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_29
+    21300060: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_30
+    21300062: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_31
+    21300064: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_32
+    21300066: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_33
+    21300068: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_36
+    21300070: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_37
+    21300072: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_39
+    21300074: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_40
+    21300076: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_41
+    21300078: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_42
+    21300080: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_43
+    21300082: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_44
+    21300084: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_45
+    21300086: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_46
+    21300088: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_47
+    21300090: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_48
+    21300092: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_49
+    21300094: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_50
+    21300096: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_51
+    21300098: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_52
+    21300100: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_53
+    21300102: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_54
+    21300104: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_55
+    21300106: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_56
+    21300108: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_57
+    21300110: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_58
+    21300112: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_59
+    21300114: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_60
+    21300116: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_61
+    21300118: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_62
+    21300120: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_63
+    21300122: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_64
+    21300124: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_65
+    21300126: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_66
+    21300128: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_67
+    21300130: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_68
+    21300132: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_69
+    21300134: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_70
+    21300136: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_71
+    21300138: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_72
+    21300140: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_73
+    21300142: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_74
+    21300144: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_75
+    21300146: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_76
+    21300148: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_77
+    21300150: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_78
+    21300152: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_79
+    21300154: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_80
+    21300156: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_81
+    21300158: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_82
+    21300160: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_83
+    21300162: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_84
+    21300164: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_85
+    21300166: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_86
+    21300168: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_87
+    21300170: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_88
+    21300172: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_89
+    21300174: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_90
+    21300176: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_91
+    21300178: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_92
+    21300180: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_93
+    21300182: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_94
+    21300184: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_95
+    21300186: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_96
+    21300188: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_97
+    21300190: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_98
+    21300192: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_100
+    21300194: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_101
+    21300196: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_102
+    21300198: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_103
+    21300200: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_104
+    21300202: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_105
+    21300204: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_106
+    21300206: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_107
+    21300208: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_108
+    21300210: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_109
+    21300212: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_110
+    21300214: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_111
+    21300216: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_112
+    21300218: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_113
+    21300220: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_114
+    21300222: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_115
+    21300224: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_116
+    21300226: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_117
+    21300228: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_119
+    21300230: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_120
+    21300232: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_121
+    21300234: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_122
+    21300236: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_123
+    21300238: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_124
+    21300240: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_125
+    21300242: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_126
+    21300244: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_127
+    21300246: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_128
+    21300248: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_129
+    21300250: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_130
+    21300252: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_131
+    21300254: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_132
+    21300256: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_133
+    21300258: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_134
+    21300260: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_135
+    21300262: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_136
+    21300264: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_137
+    21300266: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_138
+    21300268: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_139
+    21300270: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_140
+    21300272: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_141
+    21300274: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_142
+    21300276: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_143
+    21300278: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_144
+    21300280: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_145
+    21300282: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_146
+    21300284: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_147
+    21300286: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_148
+    21300288: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_149
+    21300290: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_150
+    21300292: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_151
+    21300294: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_152
+    21300296: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_153
+    21300298: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_154
+    21300300: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_155
+    21300302: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_156
+    21300304: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_157
+    21300306: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_158
+    21300308: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_159
+    21300310: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_160
+    21300312: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_161
+    21300314: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_162
+    21300316: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_163
+    21300318: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_164
+    21300320: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_165
+    21300322: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_166
+    21300324: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_167
+    21300326: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_168
+    21300328: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_169
+    21300330: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_170
+    21300332: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_171
+    21300334: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_172
+    21300336: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_173
+    21300338: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_174
+    21300340: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_175
+    21300342: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_176
+    21300344: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_177
+    21300346: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_178
+    21300348: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_179
+    21300350: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_180
+    21300352: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_181
+    21300354: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_182
+    21300356: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_183
+    21300358: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_184
+    21300360: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_185
+    21300362: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_186
+    21300364: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_187
+    21300366: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_188
+    21300368: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_189
+    21300370: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_190
+    21300372: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_191
+    21300374: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_192
+    21300376: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_193
+    21300378: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_194
+    21300380: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_195
+    21300382: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_196
+    21300384: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_197
+    21300386: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_198
+    21300388: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_199
+    21300390: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_200
+    21300392: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_201
+    21300394: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_202
+    21300396: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_203
+    21300398: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_204
+    21300400: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_205
+    21300402: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_206
+    21300404: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_207
+    21300406: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_208
+    21300408: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_209
+    21300410: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_210
+    21300412: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_211
+    21300414: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_212
+    21300416: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_213
+    21300418: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_214
+    21300420: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_215
+    21300422: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_216
+    21300424: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_217
+    21300426: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_218
+    21300428: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_219
+    21300430: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_220
+    21300432: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_221
+    21300434: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_222
+    21300436: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_223
+    21300438: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_224
+    21300440: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_225
+    21300442: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_226
+    21300444: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_227
+    21300446: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_228
+    21300448: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_229
+    21300450: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_230
+    21300452: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_231
+    21300454: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_232
+    21300456: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_233
+    21300458: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_234
+    21300460: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_235
+    21300462: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_236
+    21300464: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_237
+    21300466: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_238
+    21300468: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_239
+    21300470: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_240
+    21300472: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_241
+    21300474: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_242
+    21300476: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_243
+    21300478: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_244
+    21300480: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_245
+    21300482: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_246
+    21300484: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_247
+    21300486: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_248
+    21300488: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_249
+    21300490: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_250
+    21300492: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_251
+    21300494: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_252
+    21300496: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_253
+    21300498: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_254
+    21300500: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_255
+    21300502: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_256
+    21300504: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_257
+    21300506: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_258
+    21300508: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_259
+    21300510: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_260
+    21300512: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_261
+    21300514: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_262
+    21300516: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_263
+    21300518: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_264
+    21300520: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_265
+    21300522: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_266
+    21300524: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_267
+    21300526: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_268
+    21300528: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_269
+    21300530: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_270
+    21300532: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_271
+    21300534: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_272
+    21300536: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_273
+    21300538: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_274
+    21300540: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_275
+    21300542: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_276
+    21300544: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_277
+    21300546: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_278
+    21300548: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_279
+    21300550: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_280
+    21300552: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_281
+    21300554: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_282
+    21300556: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_283
+    21300558: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_284
+    21300560: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_285
+    21300562: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_286
+    21300564: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_287
+    21300566: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_288
+    21300568: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_289
+    21300570: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_290
+    21300572: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_291
+    21300574: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_292
+    21300576: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_293
+    21300578: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_294
+    21300580: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_295
+    21300582: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_296
+    21300584: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_297
+    21300586: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_298
+    21300588: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_299
+    21300590: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_300
+    21300592: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_301
+    21300594: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_302
+    21300596: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_303
+    21300598: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_304
+    21300600: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_305
+    21300602: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_306
+    21300604: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_307
+    21300606: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_308
+    21300608: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_309
+    21300610: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_310
+    21300612: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_311
+    21300614: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_312
+    21300616: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_313
+    21300618: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_314
+    21300620: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_315
+    21300622: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_316
+    21300624: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_317
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 30
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 975
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 982
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 990
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_3
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 981
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_4
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 950
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_5
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 967
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_6
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 965
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_7
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 970
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_8
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 956
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_9
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 948
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_10
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 948
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_11
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 946
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 948
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_13
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 950
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_14
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 949
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_15
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 929
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_16
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 927
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_17
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 935
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_18
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 930
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_19
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 913
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 924
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_21
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 918
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_22
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 922
+        width: 35
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_23
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 924
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_24
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 916
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_25
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 913
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_26
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 920
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_27
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 909
+        width: 46
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_28
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 906
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_29
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 912
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_30
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 860
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_31
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 860
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_32
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 862
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_33
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 827
+        width: 67
+        height: 67
+      alignment: 9
+      pivot: {x: 0.6839866, y: 0.43920898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_36
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 820
+        width: 65
+        height: 72
+      alignment: 9
+      pivot: {x: 0.2932178, y: 0.5056568}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_37
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 826
+        width: 65
+        height: 74
+      alignment: 9
+      pivot: {x: 0.4060082, y: 0.3789112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_39
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 808
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_40
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 808
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_41
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 808
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_42
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 808
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_43
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 772
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_44
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 772
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_45
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 772
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_46
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 772
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_47
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 772
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_48
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 771
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_49
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 771
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_50
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 771
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_51
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 771
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_52
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 771
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_53
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 771
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_54
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 797
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_55
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 798
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_56
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 798
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_57
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 771
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_58
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 771
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_59
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 771
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_60
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 771
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_61
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 771
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_62
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 771
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_63
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 771
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_64
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 771
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_65
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 728
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_66
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 728
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_67
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 728
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_68
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 728
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_69
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 728
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_70
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 728
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_71
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 728
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_72
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 728
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_73
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 728
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_74
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 728
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_75
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 728
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_76
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 728
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_77
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 728
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_78
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 728
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_79
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 727
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_80
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 727
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_81
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 727
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_82
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 685
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_83
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 685
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_84
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 685
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_85
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 685
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_86
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 685
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_87
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 685
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_88
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 685
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_89
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 686
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_90
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 686
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_91
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 686
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_92
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 686
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_93
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 686
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_94
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 686
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_95
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 686
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_96
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 686
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_97
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 686
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_98
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 686
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_100
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 621
+        width: 68
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_101
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 655
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_102
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 638
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_103
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 637
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_104
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 638
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_105
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 634
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_106
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 631
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_107
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 635
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_108
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 637
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_109
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 637
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_110
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 637
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_111
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 637
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_112
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 637
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_113
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 637
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_114
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 637
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_115
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 637
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_116
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 621
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_117
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 578
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_119
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 580
+        width: 55
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_120
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 573
+        width: 63
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_121
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 573
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_122
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 578
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_123
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 579
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_124
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 540
+        width: 24
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_125
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 574
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_126
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 577
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_127
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 576
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_128
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 579
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_129
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 579
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_130
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 579
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_131
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 580
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_132
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 540
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_133
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 540
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_134
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 540
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_135
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 539
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_136
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 540
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_137
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 540
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_138
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 540
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_139
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 540
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_140
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 540
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_141
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 540
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_142
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 540
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_143
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 540
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_144
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 539
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_145
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 541
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_146
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 540
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_147
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 540
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_148
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 540
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_149
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 540
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_150
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 492
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_151
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 500
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_152
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 506
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_153
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 518
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_154
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 506
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_155
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 500
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_156
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 493
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_157
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 500
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_158
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 493
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_159
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 493
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_160
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 493
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_161
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 493
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_162
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 493
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_163
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 493
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_164
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 493
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_165
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 493
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_166
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 493
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_167
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 493
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_168
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 493
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_169
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 493
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_170
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 450
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_171
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 450
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_172
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 450
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_173
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 450
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_174
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 449
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_175
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 449
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_176
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 449
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_177
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 449
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_178
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 449
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_179
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 449
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_180
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 449
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_181
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 449
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_182
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 449
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_183
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 448
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_184
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 448
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_185
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 404
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_186
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 406
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_187
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 406
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_188
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 406
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_189
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 398
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_190
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 405
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_191
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 405
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_192
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 403
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_193
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 405
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_194
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 405
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_195
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 405
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_196
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 405
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_197
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 74
+        width: 265
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_198
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 358
+        width: 61
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_199
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 358
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_200
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 358
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_201
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 358
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_202
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 358
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_203
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 357
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_204
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 359
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_205
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 359
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_206
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 358
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_207
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 358
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_208
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 357
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_209
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 357
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_210
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 298
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_211
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 298
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_212
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 298
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_213
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 298
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_214
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 298
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_215
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 298
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_216
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 298
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_217
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 298
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_218
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 296
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_219
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 298
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_220
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 294
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_221
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 293
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_222
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 290
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_223
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 321
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_224
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 245
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_225
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 246
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_226
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 245
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_227
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 245
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_228
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 245
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_229
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 245
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_230
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 277
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_231
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 242
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_232
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 240
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_233
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 246
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_234
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 245
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_235
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 245
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_236
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 244
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_237
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 245
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_238
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 245
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_239
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 230
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_240
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 230
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_241
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 190
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_242
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 177
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_243
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 173
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_244
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 177
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_245
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 177
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_246
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 177
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_247
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 177
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_248
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 177
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_249
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 177
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_250
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 177
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_251
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 175
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_252
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 175
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_253
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 175
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_254
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 126
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_255
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 127
+        width: 55
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_256
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 126
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_257
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 127
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_258
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 127
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_259
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 127
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_260
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 127
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_261
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 127
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_262
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 146
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_263
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 126
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_264
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 126
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_265
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 126
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_266
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 127
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_267
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 71
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_268
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 71
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_269
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 71
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_270
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 70
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_271
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 79
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_272
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 88
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_273
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 88
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_274
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 74
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_275
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 71
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_276
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 71
+        width: 52
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_277
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 71
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_278
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 70
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_279
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 26
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_280
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 53
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_281
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 53
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_282
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 54
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_283
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 54
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_284
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 55
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_285
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 55
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_286
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 26
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_287
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 26
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_288
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 26
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_289
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 26
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_290
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 26
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_291
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 26
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_292
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 26
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_293
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 26
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_294
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 57
+        width: 47
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_295
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 54
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_296
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 57
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_297
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 57
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_298
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 57
+        width: 91
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_299
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 27
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_300
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 26
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_301
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 26
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_302
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 26
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_303
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 26
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_304
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 24
+        width: 48
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_305
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 39
+        width: 47
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_306
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 36
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_307
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 39
+        width: 97
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_308
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 22
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_309
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 22
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_310
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 22
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_311
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 20
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_312
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 22
+        width: 33
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_313
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 4
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_314
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 5
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_315
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 8
+        width: 39
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_316
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 8
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hammer_bro_mario_sprites_by_superstupidy-d54fuj0_317
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 8
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
